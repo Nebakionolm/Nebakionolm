@@ -4,13 +4,15 @@
 
 # 👋 Merhaba Arkadaşlar, Ben Nebakionolm!
 
-<img src="https://githubusercontent.com" 
+<img src="0002.png" 
      alt="Nebakionolm Karakteri" 
      align="right" 
      width="260" 
-     style="border-radius: 24px; margin-left: 25px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+     style="border-radius: 24px; margin-left: 25px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 
 YouTube macerama **Brawl Stars** videolarıyla başladım, şimdi ise enerjimi tamamen **Roblox** videolarına yönelttim. Kanalımda, Roblox'un en eğlenceli ve ilgi çekici oyunlarını oynayarak sizlere hem eğlence hem de bilgi sunmaya çalışıyorum. 
+
+Aynı zamanda profesyonel bir **3D Animatörüm**! Videolarımda ve projelerimde gördüğünüz karakter modellemelerini, hareketleri ve özel animasyon sahnelerini tamamen **Blender** kullanarak sıfırdan kendim tasarlıyorum. 3D dünyasının büyüleyici detaylarını Roblox evreniyle birleştiriyorum.
 
 Amacım; videolarımı izlerken keyif almanız, yeni şeyler öğrenmeniz ve her yeni video geldiğinde heyecanla beklemeniz. Eğer bu hissi sizlere geçirebiliyorsam, işte o zaman amacımın tam anlamıyla gerçekleştiğini biliyorum.
 
@@ -47,6 +49,7 @@ Komik videolar ile sizi eğlendirmek için videolar yapıyorum. Umarım daha gen
 [KANAL BİLGİLERİ]
 Üretici: Nebakionolm
 Ana Odak: Roblox Oyunu & Topluluk Yönetimi
+Uzmanlık Alanı: Blender 3D Modelleme & Animasyon
 Video Türü: Kısa Videolar (Shorts), Uzun Videolar, Canlı Yayınlar
 Mizah Seviyesi: %100 Maksimum Enerji
 ```
@@ -62,8 +65,9 @@ Kanalın geçmişten geleceğe tüm planlarını ve ulaştığı kilometre taşl
 - [x] İlk Brawl Stars videolarının kurgulanıp yüklenmesi
 - [x] Profil resmi ve kanal banner tasarımlarının optimize edilmesi
 
-#### Aşama 2: Roblox Çağı ve Büyüme (Devam Ediyor)
+#### Aşama 2: Roblox ve Blender Çağı (Devam Ediyor)
 - [x] Roblox evrenine tam zamanlı geçiş yapılması
+- [x] Blender ile özel 3D animasyon ve karakter üretim süreçlerinin başlaması
 - [x] Discord topluluk sunucusunun aktif hale getirilmesi
 - [x] Roblox Resmi Grubu'nun kurulması ve üyelerin toplanması
 - [ ] Düzenli haftalık video yükleme takvimine geçiş yapılması
@@ -71,17 +75,19 @@ Kanalın geçmişten geleceğe tüm planlarını ve ulaştığı kilometre taşl
 #### Aşama 3: Zirve ve Büyük Topluluk (Gelecek Planı)
 - [ ] 10.000 Abone hedefine ulaşılması ve özel video
 - [ ] Takipçilerle ödüllü ve çekilişli Roblox turnuvaları düzenlenmesi
+- [ ] Kendi ürettiğim Blender 3D animasyon karakterleriyle özel kısa film serileri
 - [ ] Guilded ve Discord sunucularında özel üyelik sistemleri
 
 ---
 
-## 🛠️ Kullandığım Ekipmanlar & Sistem Özellikleri
+## 🛠️ Kullandığım Ekipmanlar, Programlar & Sistem Özellikleri
 
-Videoların hazırlanmasında ve Roblox oyunlarında en yüksek performansı almak için kullandığım sistem yapısı:
+Videoların hazırlanmasında, Roblox oyunlarında ve Blender render süreçlerinde en yüksek performansı almak için kullandığım sistem yapısı:
 
-| Bileşen | Donanım / Platform | Kullanım Amacı | Önem Derecesi |
+| Bileşen | Donanım / Yazılım | Kullanım Amacı | Önem Derecesi |
 | :--- | :--- | :--- | :--- |
-| **Oyun Platformu** | Roblox İstemcisi | İçerik Üretimi | 🔴 Kritik |
+| **3D Modelleme / Animasyon** | Blender 3D | Karakter Modelleme, Rigging, Render | 🔴 Kritik |
+| **Oyun Platformu** | Roblox İstemcisi | İçerik Üretimi ve İncelemeler | 🔴 Kritik |
 | **Kayıt Yazılımı** | OBS Studio / GeForce Experience | Akıcı 60 FPS Video Alımı | 🟠 Yüksek |
 | **Montaj & Kurgu** | CapCut / Premiere Pro | Komik Efektler & Kesimler | 🟠 Yüksek |
 | **Ses Yönetimi** | Discord & Krisp | Temiz ve Net Konuşmalar | 🟡 Orta |
@@ -110,7 +116,7 @@ Aşağıdaki panelleri genişleterek merak edilen soruların cevaplarına ulaşa
 <details>
 <summary>💬 Soru 1: Ne sıklıkla yeni videolar geliyor?</summary>
 <br>
-Videolarımı en yüksek kalitede ve komik efektlerle süsleyerek hazırladığım için belirli aralıklarla yüklüyorum. Bildirimleri açarak yeni videolardan anında haberdar olabilirsin!
+Videolarımı en yüksek kalitede, komik efektlerle ve Blender'da hazırladığım özel 3D animasyon sahneleriyle süsleyerek hazırladığım için belirli aralıklarla yüklüyorum. Bildirimleri açarak yeni videolardan anında haberdar olabilirsin!
 </details>
 
 <details>
@@ -125,6 +131,12 @@ Evet! Roblox grubumuza katılan ve Discord sunucumuzda aktif olan takipçileriml
 Macerama Brawl Stars ile başlamış olsam da şu an enerjimi tamamen Roblox'un devasa ve ucu bucaksız evrenine harcıyorum. Roblox videolarında çok daha fazla eğleneceğiz!
 </details>
 
+<details>
+<summary>🎨 Soru 4: Animasyonları hangi programla yapıyorsunuz?</summary>
+<br>
+Tüm 3D tasarım, modelleme, iskelet giydirme (rigging) ve animasyon süreçlerimi tamamen açık kaynak kodlu Blender programı üzerinden gerçekleştiriyorum.
+</details>
+
 ---
 
 ## 👁️‍🗨️ Gizli Dosyalar & Sürpriz Yumurtalar
@@ -132,24 +144,24 @@ Macerama Brawl Stars ile başlamış olsam da şu an enerjimi tamamen Roblox'un 
 Sadece bu sayfanın en altına kadar inmeyi başaran gerçek ve dikkatli takipçiler için gizli odalar:
 
 <details>
-<summary>🔑 GİZLI GÖREV: Yorum Şifresi</summary>
+<summary>🔑 GİZLİ GÖREV: Yorum Şifresi</summary>
 <br>
-Eğer burayı okuyorsan, YouTube'daki en son videonun altına gidip yorum olarak <code>#NebakionolmGizliGrup</code> yaz! Böylece senin bu dosyaları inceleyen elit bir takipçi olduğunu anlayıp yorumuna özel kalp atacağım! 😉
+Eğer burayı okuyorsan, YouTube'daki en son videonun altına gidip yorum olarak <code>#Nebakionolm3D</code> yaz! Böylece senin bu dosyaları inceleyen elit bir takipçi olduğunu anlayıp yorumuna özel kalp atacağım! 😉
 </details>
 
 <details>
-<summary>🪐 KARAKTERİN GİZEMİ: Neden El Sallıyor?</summary>
+<summary>🪐 KARAKTERİN GİZEMİ: Sağdaki Resim Nereden Geldi?</summary>
 <br>
-Sağ tarafta duran yumuşatılmış köşeli karakterim, bu sayfaya giren herkesi sevgiyle selamlamak için tasarlandı. Kodların arasına gömülmüş bu resim, kanalın resmi maskotudur.
+Sağ tarafta duran yumuşatılmış köşeli el sallayan karakterim, bizzat kendi Blender çalışma alanımdan (Viewport) aldığım özel bir render çıktısıdır! Sayfamızı ziyaret eden herkesi selamlaması için buraya yerleştirdim.
 </details>
 
 ---
 
 ## ⚠️ Telif Hakkı ve Yasal Koruma Protokolü
 
-Bu GitHub sayfasında (repository) barındırılan tüm grafik tasarımlar, görsel içerikler, `README.md` kod yapısı, metin şablonları ve fikir projeleri **Nebakionolm** adına tescillenmiştir. Bu sayfa üzerinde herhangi bir açık kaynak kodlu lisans (**Lisans Yok / No License**) tanımlanmamıştır. 
+Bu GitHub sayfasında (repository) barındırılan tüm Blender 3D modelleri, tasarımlar, görsel içerikler, `README.md` kod yapısı, metin şablonları ve fikir projeleri **Nebakionolm** adına tescillenmiştir. Bu sayfa üzerinde herhangi bir açık kaynak kodlu lisans (**Lisans Yok / No License**) tanımlanmamıştır. 
 
-Uluslararası Telif Hakkı Kanunları gereğince tüm hakları saklıdır. Yazılı ve resmi izin alınmaksızın bu sayfadaki içeriklerin kopyalanması, değiştirilmesi, klonlanması, başka bir sayfada yayınlanması veya ticari/kişisel amaçlarla kaynak gösterilmeden kullanılması kesinlikle yasaktır. Sadece tarayıcı üzerinden görüntülemeye izin verilmiştir. Aksine davrananlar hakkında yasal işlem başlatılacaktır.
+Uluslararası Telif Hakkı Kanunları gereğince tüm hakları saklıdır. Yazılı ve resmi izin alınmaksızın bu sayfadaki içeriklerin, 3D modellerin veya tasarımların kopyalanması, değiştirilmesi, klonlanması, başka bir sayfada yayınlanması veya ticari/kişisel amaçlarla kaynak gösterilmeden kullanılması kesinlikle yasaktır. Sadece tarayıcı üzerinden görüntülemeye izin verilmiştir. Aksine davrananlar hakkında yasal işlem başlatılacaktır.
 
 ---
 
