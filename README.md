@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://vercel.app" alt="Header Banner" />
-</p>
+# 🚀 NEBAKIONOLM RESMİ GİTHUB SAYFASINA HOŞ GELDİNİZ!
+
+---
 
 # 👋 Merhaba Arkadaşlar, Ben Nebakionolm!
 
@@ -30,10 +30,10 @@ Komik videolar ile sizi eğlendirmek için videolar yapıyorum. Umarım daha gen
 
 <p align="left">
   <a href="https://youtube.com">
-    <img src="https://shields.io" alt="YouTube Subs">
+    <img src="https://shields.io" alt="YouTube Aboneleri">
   </a>
   <a href="https://roblox.com">
-    <img src="https://shields.io" alt="Roblox Profile">
+    <img src="https://shields.io" alt="Roblox Profili">
   </a>
   <a href="https://discord.gg">
     <img src="https://shields.io" alt="Discord">
@@ -44,53 +44,53 @@ Komik videolar ile sizi eğlendirmek için videolar yapıyorum. Umarım daha gen
 </p>
 
 ```yaml
-[KANAL BILGILERI]
+[KANAL BİLGİLERİ]
 Üretici: Nebakionolm
 Ana Odak: Roblox Oyunu & Topluluk Yönetimi
-Video Türü: Shorts, Uzun Videolar, Canlı Yayınlar
+Video Türü: Kısa Videolar (Shorts), Uzun Videolar, Canlı Yayınlar
 Mizah Seviyesi: %100 Maksimum Enerji
 ```
 
 ---
 
-## 🗺️ Detaylı Gelişim ve Yol Haritası (Roadmap)
+## 🗺️ Detaylı Gelişim ve Yol Haritası
 
 Kanalın geçmişten geleceğe tüm planlarını ve ulaştığı kilometre taşlarını buradan takip edebilirsin:
 
-#### Phase 1: Kuruluş ve Temeller (Tamamlandı)
+#### Aşama 1: Kuruluş ve Temeller (Tamamlandı)
 - [x] YouTube kanalının açılması ve markalaşma süreci
 - [x] İlk Brawl Stars videolarının kurgulanıp yüklenmesi
 - [x] Profil resmi ve kanal banner tasarımlarının optimize edilmesi
 
-#### Phase 2: Roblox Çağı ve Büyüme (Devam Ediyor)
+#### Aşama 2: Roblox Çağı ve Büyüme (Devam Ediyor)
 - [x] Roblox evrenine tam zamanlı geçiş yapılması
 - [x] Discord topluluk sunucusunun aktif hale getirilmesi
 - [x] Roblox Resmi Grubu'nun kurulması ve üyelerin toplanması
 - [ ] Düzenli haftalık video yükleme takvimine geçiş yapılması
 
-#### Phase 3: Zirve ve Büyük Topluluk (Gelecek Planı)
+#### Aşama 3: Zirve ve Büyük Topluluk (Gelecek Planı)
 - [ ] 10.000 Abone hedefine ulaşılması ve özel video
 - [ ] Takipçilerle ödüllü ve çekilişli Roblox turnuvaları düzenlenmesi
 - [ ] Guilded ve Discord sunucularında özel üyelik sistemleri
 
 ---
 
-## 🛠️ Kullandığım Ekipmanlar & Sistem Gereksinimleri
+## 🛠️ Kullandığım Ekipmanlar & Sistem Özellikleri
 
-Videoların hazırlanmasında ve Roblox oyunlarında en yüksek performansı almak için kullandığım sistem mimarisi:
+Videoların hazırlanmasında ve Roblox oyunlarında en yüksek performansı almak için kullandığım sistem yapısı:
 
-| Bileşen | Donanım / Platform | Amaç | Önem Derecesi |
+| Bileşen | Donanım / Platform | Kullanım Amacı | Önem Derecesi |
 | :--- | :--- | :--- | :--- |
-| **Oyun Platformu** | Roblox Client | İçerik Üretimi | 🔴 Kritik |
+| **Oyun Platformu** | Roblox İstemcisi | İçerik Üretimi | 🔴 Kritik |
 | **Kayıt Yazılımı** | OBS Studio / GeForce Experience | Akıcı 60 FPS Video Alımı | 🟠 Yüksek |
-| **Edit & Kurgu** | CapCut / Premiere Pro | Komik Efektler & Kesimler | 🟠 Yüksek |
+| **Montaj & Kurgu** | CapCut / Premiere Pro | Komik Efektler & Kesimler | 🟠 Yüksek |
 | **Ses Yönetimi** | Discord & Krisp | Temiz ve Net Konuşmalar | 🟡 Orta |
 
 ---
 
 ## 🔗 Sosyal Medya & Topluluk Bağlantıları
 
-Aşağıdaki interaktif navigasyon tablosunu kullanarak tüm resmi hesaplarıma tek tıkla erişebilirsin. Resmi olmayan hiçbir hesaba güvenme!
+Aşağıdaki bağlantı tablosunu kullanarak tüm resmi hesaplarıma tek tıkla erişebilirsin. Resmi olmayan hiçbir hesaba güvenme!
 
 | 🌐 Platform | 🚀 Doğrudan Bağlantı Köprüsü | 📌 Detaylı Açıklama |
 | :--- | :--- | :--- |
@@ -103,7 +103,7 @@ Aşağıdaki interaktif navigasyon tablosunu kullanarak tüm resmi hesaplarıma 
 
 ---
 
-## ❓ Sıkça Sorulan Sorular (S.S.S.)
+## ❓ Sıkça Sorulan Sorular
 
 Aşağıdaki panelleri genişleterek merak edilen soruların cevaplarına ulaşabilirsin:
 
@@ -127,12 +127,12 @@ Macerama Brawl Stars ile başlamış olsam da şu an enerjimi tamamen Roblox'un 
 
 ---
 
-## 👁️‍🗨️ Gizli Dosyalar & Sürpriz Yumurtalar (Easter Eggs)
+## 👁️‍🗨️ Gizli Dosyalar & Sürpriz Yumurtalar
 
 Sadece bu sayfanın en altına kadar inmeyi başaran gerçek ve dikkatli takipçiler için gizli odalar:
 
 <details>
-<summary>🔑 GİZLİ GÖREV: Yorum Şifresi</summary>
+<summary>🔑 GİZLI GÖREV: Yorum Şifresi</summary>
 <br>
 Eğer burayı okuyorsan, YouTube'daki en son videonun altına gidip yorum olarak <code>#NebakionolmGizliGrup</code> yaz! Böylece senin bu dosyaları inceleyen elit bir takipçi olduğunu anlayıp yorumuna özel kalp atacağım! 😉
 </details>
@@ -140,18 +140,19 @@ Eğer burayı okuyorsan, YouTube'daki en son videonun altına gidip yorum olarak
 <details>
 <summary>🪐 KARAKTERİN GİZEMİ: Neden El Sallıyor?</summary>
 <br>
-Sağ tarafta duran yumuşatılmış köşeli karakterim, bu depoya giren herkesi sevgiyle selamlamak için tasarlandı. Kodların arasına gömülmüş bu resim, kanalın resmi maskotudur.
+Sağ tarafta duran yumuşatılmış köşeli karakterim, bu sayfaya giren herkesi sevgiyle selamlamak için tasarlandı. Kodların arasına gömülmüş bu resim, kanalın resmi maskotudur.
 </details>
 
 ---
 
-## ⚠️ Telif Hakkı ve Yasal Koruma Protokolü / Copyright Notice
+## ⚠️ Telif Hakkı ve Yasal Koruma Protokolü
 
-* **TR (TÜRKÇE):** Bu GitHub deposunda (repository) barındırılan tüm grafik tasarımlar, görsel içerikler, `README.md` kod yapısı, metin şablonları ve fikir projeleri **Nebakionolm** adına tescillenmiştir. Bu depo üzerinde herhangi bir açık kaynak kodlu lisans (**No License**) tanımlanmamıştır. Uluslararası Telif Hakkı Kanunları gereğince tüm hakları saklıdır. Yazılı ve resmi izin alınmaksızın bu depodaki içeriklerin kopyalanması, değiştirilmesi, klonlanması (fork), başka bir depoda yayınlanması veya ticari/kişisel amaçlarla kaynak gösterilmeden kullanılması kesinlikle yasaktır. Sadece tarayıcı üzerinden görüntülemeye izin verilmiştir.
-* **EN (ENGLISH):** All rights reserved. This repository contains exclusive intellectual property, layouts, text formulations, and visual elements owned by **Nebakionolm**. It is published under **No License**, meaning the author retains full and exclusive legal rights. No part of this repository may be copied, reproduced, redistributed, cloned, forked, or modified without prior written permission from the owner. Violations will be subject to digital copyright law enforcement.
+Bu GitHub sayfasında (repository) barındırılan tüm grafik tasarımlar, görsel içerikler, `README.md` kod yapısı, metin şablonları ve fikir projeleri **Nebakionolm** adına tescillenmiştir. Bu sayfa üzerinde herhangi bir açık kaynak kodlu lisans (**Lisans Yok / No License**) tanımlanmamıştır. 
+
+Uluslararası Telif Hakkı Kanunları gereğince tüm hakları saklıdır. Yazılı ve resmi izin alınmaksızın bu sayfadaki içeriklerin kopyalanması, değiştirilmesi, klonlanması, başka bir sayfada yayınlanması veya ticari/kişisel amaçlarla kaynak gösterilmeden kullanılması kesinlikle yasaktır. Sadece tarayıcı üzerinden görüntülemeye izin verilmiştir. Aksine davrananlar hakkında yasal işlem başlatılacaktır.
 
 ---
 
 <p align="center">
-  <img src="https://vercel.app" alt="Footer Wave" />
+  <b>Nebakionolm Resmi GitHub Sayfası - Tüm Hakları Saklıdır © 2026</b>
 </p>
