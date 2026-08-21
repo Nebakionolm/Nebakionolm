@@ -2,34 +2,36 @@
 
 ---
 
-# 👋 Merhaba Arkadaşlar, Ben Nebakionolm!
+## 👋 Biz Kimiz? Takımla Tanışın!
 
-<img src="0002.png" 
-     alt="Nebakionolm Karakteri" 
-     align="right" 
-     width="260" 
-     style="border-radius: 24px; margin-left: 25px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+<p align="center">
+  <img src="0002.png" 
+       alt="Nebakionolm Karakteri" 
+       width="240" 
+       style="border-radius: 24px; margin: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); inline-block;" />
+  <img src="DARK.png" 
+       alt="Dark Karakteri" 
+       width="240" 
+       style="border-radius: 24px; margin: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); inline-block;" />
+</p>
 
+### 🎮 Nebakionolm (Roblox İçerik Üreticisi & 3D Animatör)
 YouTube macerama **Brawl Stars** videolarıyla başladım, şimdi ise enerjimi tamamen **Roblox** videolarına yönelttim. Kanalımda, Roblox'un en eğlenceli ve ilgi çekici oyunlarını oynayarak sizlere hem eğlence hem de bilgi sunmaya çalışıyorum. 
 
 Aynı zamanda profesyonel bir **3D Animatörüm**! Videolarımda ve projelerimde gördüğünüz karakter modellemelerini, hareketleri ve özel animasyon sahnelerini tamamen **Blender** kullanarak sıfırdan kendim tasarlıyorum. 3D dünyasının büyüleyici detaylarını Roblox evreniyle birleştiriyorum.
 
-Amacım; videolarımı izlerken keyif almanız, yeni şeyler öğrenmeniz ve her yeni video geldiğinde heyecanla beklemeniz. Eğer bu hissi sizlere geçirebiliyorsam, işte o zaman amacımın tam anlamıyla gerçekleştiğini biliyorum.
+### 🎬 Dark (En İyi Arkadaş & Roblox 2D Video Üreticisi)
+Ekibin diğer yarısı ve en yakın arkadaşım **Dark**! O da tam bir Roblox tutkunu ve platform için harika **2D Roblox videoları** üretmeyi çok seviyor. Kendine has tarzı ve eğlenceli kurgularıyla Roblox evrenine bambaşka bir bakış açısı kazandırıyor.
 
-Kanalda yayınladığım tüm Roblox videoları aynı özenle hazırlanıyor. Eğer kaçırdığınız videolar varsa gönül rahatlığıyla geri dönüp izleyebilirsiniz. Her bir içerik, sizlere kaliteli zaman geçirtebilmek için tasarlandı.
+Amacımız; videolarımızı izlerken keyif almanız, yeni şeyler öğrenmeniz ve her yeni video geldiğinde heyecanla beklemeniz. Eğer bu hissi sizlere geçirebiliyorsam, işte o zaman amacımın tam anlamıyla gerçekleştiğini biliyorum.
 
-Komik videolar ile sizi eğlendirmek için videolar yapıyorum. Umarım daha geniş bir kitleye sahip olabilirim!
-
-🚀 **Destekleriniz için çok teşekkür ederim!** Abone olmayı ve bildirimleri açmayı unutmayın, çünkü bu kanal hep birlikte büyüyor! 
-
-🎮 **İyi eğlenceler!**
-
-<br clear="right" />
+🚀 **Destekleriniz için çok teşekkür ederiz!** Kanallarımıza abone olmayı ve bildirimleri açmayı unutmayın, çünkü bu topluluk hep birlikte büyüyor! 
 
 ---
 
 ## 📊 Kanal İstatistikleri ve Canlı Metrikler
 
+### 🛡️ Nebakionolm Bağlantıları
 <p align="left">
   <a href="https://youtube.com">
     <img src="https://shields.io" alt="YouTube Aboneleri">
@@ -40,131 +42,127 @@ Komik videolar ile sizi eğlendirmek için videolar yapıyorum. Umarım daha gen
   <a href="https://discord.gg">
     <img src="https://shields.io" alt="Discord">
   </a>
-  <a href="https://instagram.com">
-    <img src="https://shields.io" alt="Instagram">
+</p>
+
+### ⚡ Dark Bağlantıları
+<p align="left">
+  <a href="https://youtube.com">
+    <img src="https://shields.io" alt="Dark YouTube">
+  </a>
+  <a href="https://www.roblox.com/tr/users/2758994891/profile">
+    <img src="https://shields.io" alt="Dark Roblox">
   </a>
 </p>
 
 ```yaml
-[KANAL BİLGİLERİ]
-Üretici: Nebakionolm
-Ana Odak: Roblox Oyunu & Topluluk Yönetimi
-Uzmanlık Alanı: Blender 3D Modelleme & Animasyon
-Video Türü: Kısa Videolar (Shorts), Uzun Videolar, Canlı Yayınlar
-Mizah Seviyesi: %100 Maksimum Enerji
+[TAKIM BİLGİLERİ]
+Üyeler: Nebakionolm & Dark
+Ana Odak: Roblox Oyun Dünyası
+Uzmanlıklar: Blender 3D Animasyon (Nebakionolm) & 2D Video Üretimi (Dark)
+Mizah Seviyesi: %100 Maksimum Enerji ve Eğlence
 ```
 
 ---
 
 ## 🗺️ Detaylı Gelişim ve Yol Haritası
 
-Kanalın geçmişten geleceğe tüm planlarını ve ulaştığı kilometre taşlarını buradan takip edebilirsin:
+Ekibimizin geçmişten geleceğe tüm planlarını ve ulaştığı kilometre taşlarını buradan takip edebilirsin:
 
 #### Aşama 1: Kuruluş ve Temeller (Tamamlandı)
-- [x] YouTube kanalının açılması ve markalaşma süreci
-- [x] İlk Brawl Stars videolarının kurgulanıp yüklenmesi
-- [x] Profil resmi ve kanal banner tasarımlarının optimize edilmesi
+- [x] YouTube kanallarının açılması ve markalaşma süreçleri
+- [x] İlk videoların kurgulanıp yüklenmesi
+- [x] Profil resimleri ve kanal tasarımlarının optimize edilmesi
 
-#### Aşama 2: Roblox ve Blender Çağı (Devam Ediyor)
+#### Aşama 2: Ortaklık ve Tasarım Çağı (Devam Ediyor)
 - [x] Roblox evrenine tam zamanlı geçiş yapılması
-- [x] Blender ile özel 3D animasyon ve karakter üretim süreçlerinin başlaması
-- [x] Discord topluluk sunucusunun aktif hale getirilmesi
-- [x] Roblox Resmi Grubu'nun kurulması ve üyelerin toplanması
-- [ ] Düzenli haftalık video yükleme takvimine geçiş yapılması
+- [x] Blender ile özel 3D animasyon ve Dark ile 2D içerik süreçlerinin başlaması
+- [x] Topluluk sunucularının ve Roblox Resmi Gruplarının kurulması
+- [ ] Düzenli haftalık ortak video yükleme takvimine geçiş yapılması
 
 #### Aşama 3: Zirve ve Büyük Topluluk (Gelecek Planı)
-- [ ] 10.000 Abone hedefine ulaşılması ve özel video
-- [ ] Takipçilerle ödüllü ve çekilişli Roblox turnuvaları düzenlenmesi
-- [ ] Kendi ürettiğim Blender 3D animasyon karakterleriyle özel kısa film serileri
-- [ ] Guilded ve Discord sunucularında özel üyelik sistemleri
+- [ ] 10.000 Abone hedeflerine ulaşılması ve özel kutlama videoları
+- [ ] Nebakionolm & Dark ortaklığıyla ödüllü Roblox turnuvaları düzenlenmesi
+- [ ] Takipçilerimizle birlikte oynayacağımız devasa canlı yayın etkinlikleri
 
 ---
 
-## 🛠️ Kullandığım Ekipmanlar, Programlar & Sistem Özellikleri
+## 🛠️ Kullandığımız Programlar & Ekipmanlar
 
-Videoların hazırlanmasında, Roblox oyunlarında ve Blender render süreçlerinde en yüksek performansı almak için kullandığım sistem yapısı:
-
-| Bileşen | Donanım / Yazılım | Kullanım Amacı | Önem Derecesi |
+| Bileşen / Program | Kullanım Amacı | Kullanan Kişi | Önem Derecesi |
 | :--- | :--- | :--- | :--- |
-| **3D Modelleme / Animasyon** | Blender 3D | Karakter Modelleme, Rigging, Render | 🔴 Kritik |
-| **Oyun Platformu** | Roblox İstemcisi | İçerik Üretimi ve İncelemeler | 🔴 Kritik |
-| **Kayıt Yazılımı** | OBS Studio / GeForce Experience | Akıcı 60 FPS Video Alımı | 🟠 Yüksek |
-| **Montaj & Kurgu** | CapCut / Premiere Pro | Komik Efektler & Kesimler | 🟠 Yüksek |
-| **Ses Yönetimi** | Discord & Krisp | Temiz ve Net Konuşmalar | 🟡 Orta |
+| **Blender 3D** | Karakter Modelleme, İskelet Tasarımı, 3D Render | Nebakionolm | 🔴 Kritik |
+| **2D Düzenleme Araçları** | 2D Görsel ve Video Tasarımları | Dark | 🔴 Kritik |
+| **Roblox İstemcisi** | İçerik Üretimi, Oyun İncelemeleri ve Oynanış | Her İkisi | 🔴 Kritik |
+| **OBS Studio** | Akıcı 60 FPS Video ve Oyun Kaydı | Her İkisi | 🟠 Yüksek |
+| **CapCut / Premiere Pro** | Komik Efektler, Ses Ayarları ve Montaj | Her İkisi | 🟠 Yüksek |
 
 ---
 
-## 🔗 Sosyal Medya & Topluluk Bağlantıları
+## 🔗 Tüm Sosyal Medya Bağlantıları
 
-Aşağıdaki bağlantı tablosunu kullanarak tüm resmi hesaplarıma tek tıkla erişebilirsin. Resmi olmayan hiçbir hesaba güvenme!
+Aşağıdaki bağlantı tablosunu kullanarak resmi hesaplarımıza tek tıkla erişebilirsin.
 
 | 🌐 Platform | 🚀 Doğrudan Bağlantı Köprüsü | 📌 Detaylı Açıklama |
 | :--- | :--- | :--- |
-| **📺 YouTube (Abone Ol)** | [Abone Ol & Bildirimleri Aç](https://youtube.com) | En yeni eğlenceli ve komik videoları kaçırmamak için mutlaka tıkla. |
-| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://roblox.com) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş ekle! |
-| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://roblox.com) | Gruptaki duvar yazışmalarına katıl, topluluğun bir parçası ol! |
-| **📸 Instagram** | [Instagram'dan Takip Et](https://instagram.com?igsh=MXExYWc0dDFhMzRieQ==) | Günlük hayatımdan kareler, hikayeler ve özel duyurular burada. |
-| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.gg) | Sesli odalarda benimle ve diğer abonelerle oyun oynama fırsatı! |
-| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://guilded.gg) | Roblox oyuncuları için geliştirilmiş gelişmiş topluluk alanımız. |
+| **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://youtube.com) | En yeni eğlenceli ve 3D animasyonlu videoları kaçırma! |
+| **📺 YouTube (Dark)** | [Dark'a Abone Ol](https://www.youtube.com/@DrexelxMC) | Dark'ın hazırladığı harika 2D Roblox içeriklerini takip et! |
+| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://roblox.com) | Profilimi incele, oyun içi kombinlerime bak ve beni ekle! |
+| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://www.roblox.com/tr/users/2758994891/profile) | Dark'ın profilini incele ve Roblox üzerinden takip et! |
+| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://roblox.com) | Gruptaki duvar yazışmalarına katıl, topluluğa dahil ol! |
+| **📸 Instagram** | [Instagram'dan Takip Et](https://instagram.com) | Günlük hayatımdan kareler, hikayeler ve özel duyurular. |
+| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.gg) | Sesli odalarda bizimle ve diğer abonelerle oyun oynama fırsatı! |
+| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://guilded.gg) | Roblox oyuncuları için geliştirilmiş özel topluluk alanımız. |
 
 ---
 
 ## ❓ Sıkça Sorulan Sorular
 
-Aşağıdaki panelleri genişleterek merak edilen soruların cevaplarına ulaşabilirsin:
-
 <details>
-<summary>💬 Soru 1: Ne sıklıkla yeni videolar geliyor?</summary>
+<summary>💬 Soru 1: Videoları birlikte mi çekiyorsunuz?</summary>
 <br>
-Videolarımı en yüksek kalitede, komik efektlerle ve Blender'da hazırladığım özel 3D animasyon sahneleriyle süsleyerek hazırladığım için belirli aralıklarla yüklüyorum. Bildirimleri açarak yeni videolardan anında haberdar olabilirsin!
+Evet! En iyi arkadaşım Dark ile birlikte sık sık fikir alışverişi yapıyor, Roblox üzerinde ortak projeler ve eğlenceli etkinlik videoları planlıyoruz.
 </details>
 
 <details>
-<summary>🎮 Soru 2: Sizinle Roblox oynayabilir miyiz?</summary>
+<summary>🏆 Soru 2: Sizinle nasıl Roblox oynayabiliriz?</summary>
 <br>
-Evet! Roblox grubumuza katılan ve Discord sunucumuzda aktif olan takipçilerimle sık sık video çekimleri ve oyun etkinlikleri yapıyorum.
+Discord sunucumuza gelerek veya Roblox gruplarımıza katılarak bizimle birlikte etkinliklere ve video çekimlerine dahil olma şansı yakalayabilirsiniz.
 </details>
 
 <details>
-<summary>🏆 Soru 3: Eski Brawl Stars videoları tamamen bitti mi?</summary>
+<summary>🎨 Soru 3: 3D ve 2D arasındaki fark nedir?</summary>
 <br>
-Macerama Brawl Stars ile başlamış olsam da şu an enerjimi tamamen Roblox'un devasa ve ucu bucaksız evrenine harcıyorum. Roblox videolarında çok daha fazla eğleneceğiz!
-</details>
-
-<details>
-<summary>🎨 Soru 4: Animasyonları hangi programla yapıyorsunuz?</summary>
-<br>
-Tüm 3D tasarım, modelleme, iskelet giydirme (rigging) ve animasyon süreçlerimi tamamen açık kaynak kodlu Blender programı üzerinden gerçekleştiriyorum.
+Ben (Nebakionolm) Blender kullanarak derinliği olan 3D karakter modelleri ve sinematik sahneler üretiyorum. Dark ise Roblox dünyasını daha dinamik, eğlenceli ve yaratıcı 2D video formatlarıyla işliyor.
 </details>
 
 ---
 
 ## 👁️‍🗨️ Gizli Dosyalar & Sürpriz Yumurtalar
 
-Sadece bu sayfanın en altına kadar inmeyi başaran gerçek ve dikkatli takipçiler için gizli odalar:
+ Sadece bu sayfanın en altına kadar inmeyi başaran gerçek takipçiler için gizli odalar:
 
 <details>
 <summary>🔑 GİZLİ GÖREV: Yorum Şifresi</summary>
 <br>
-Eğer burayı okuyorsan, YouTube'daki en son videonun altına gidip yorum olarak <code>#Nebakionolm3D</code> yaz! Böylece senin bu dosyaları inceleyen elit bir takipçi olduğunu anlayıp yorumuna özel kalp atacağım! 😉
+Eğer burayı okuyorsan, YouTube'daki en son videonun altına gidip yorum olarak <code>#NebakionolmAndDark</code> yaz! Böylece senin deponun derinliklerini keşfeden elit bir takipçi olduğunu anlayıp yorumuna özel kalp atacağız!
 </details>
 
 <details>
-<summary>🪐 KARAKTERİN GİZEMİ: Sağdaki Resim Nereden Geldi?</summary>
+<summary>🪐 GÖRSELLERİN GİZEMİ: Fotoğraflar Nereden Geldi?</summary>
 <br>
-Sağ tarafta duran yumuşatılmış köşeli el sallayan karakterim, bizzat kendi Blender çalışma alanımdan (Viewport) aldığım özel bir render çıktısıdır! Sayfamızı ziyaret eden herkesi selamlaması için buraya yerleştirdim.
+Yukarıda yan yana duran yumuşatılmış köşeli karakterlerimiz, bizzat bizim kanal maskotlarımızdır. Sayfaya giren herkesi karşılamak için yan yana yerleştirildiler.
 </details>
 
 ---
 
 ## ⚠️ Telif Hakkı ve Yasal Koruma Protokolü
 
-Bu GitHub sayfasında (repository) barındırılan tüm Blender 3D modelleri, tasarımlar, görsel içerikler, `README.md` kod yapısı, metin şablonları ve fikir projeleri **Nebakionolm** adına tescillenmiştir. Bu sayfa üzerinde herhangi bir açık kaynak kodlu lisans (**Lisans Yok / No License**) tanımlanmamıştır. 
+Bu GitHub sayfasında (repository) barındırılan tüm Blender 3D modelleri, 2D tasarımlar, görsel içerikler, `README.md` kod yapısı, metin şablonları ve fikir projeleri **Nebakionolm & Dark** adına tescillenmiştir. Bu sayfa üzerinde herhangi bir açık kaynak kodlu lisans (**Lisans Yok / No License**) tanımlanmamıştır. 
 
-Uluslararası Telif Hakkı Kanunları gereğince tüm hakları saklıdır. Yazılı ve resmi izin alınmaksızın bu sayfadaki içeriklerin, 3D modellerin veya tasarımların kopyalanması, değiştirilmesi, klonlanması, başka bir sayfada yayınlanması veya ticari/kişisel amaçlarla kaynak gösterilmeden kullanılması kesinlikle yasaktır. Sadece tarayıcı üzerinden görüntülemeye izin verilmiştir. Aksine davrananlar hakkında yasal işlem başlatılacaktır.
+Uluslararası Telif Hakkı Kanunları gereğince tüm hakları saklıdır. Yazılı ve resmi izin alınmaksızın bu sayfadaki içeriklerin, kodların veya tasarımların kopyalanması, değiştirilmesi, klonlanması, başka bir sayfada yayınlanması veya ticari/kişisel amaçlarla kaynak gösterilmeden kullanılması kesinlikle yasaktır. Sadece tarayıcı üzerinden görüntülemeye izin verilmiştir. Aksine davrananlar hakkında yasal işlem başlatılacaktır.
 
 ---
 
 <p align="center">
-  <b>Nebakionolm Resmi GitHub Sayfası - Tüm Hakları Saklıdır © 2026</b>
+  <b>Nebakionolm & Dark Resmi GitHub Sayfası - Tüm Hakları Saklıdır © 2026</b>
 </p>
