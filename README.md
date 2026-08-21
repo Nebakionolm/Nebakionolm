@@ -1,19 +1,20 @@
-# 🚀 NEBAKIONOLM RESMİ GİTHUB HAKKINDA SAYFASINA HOŞ GELDİNİZ!
+# 🚀 NEBAKIONOLM RESMİ GİTHUB SAYFASINA HOŞ GELDİNİZ!
 
 ---
 
 ## 👋 Biz Kimiz? Takımla Tanışın!
 
-<p align="center">
-  <img src="0002.png" 
-       alt="Nebakionolm Karakteri" 
-       width="240" 
-       style="border-radius: 24px; margin: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); inline-block;" />
-  <img src="DARK.png" 
-       alt="Dark Karakteri" 
-       width="240" 
-       style="border-radius: 24px; margin: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); inline-block;" />
-</p>
+<img src="0002.png" 
+     alt="Nebakionolm Karakteri" 
+     align="left" 
+     width="220" 
+     style="border-radius: 24px; margin-right: 25px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+
+<img src="DARK.png" 
+     alt="Dark Karakteri" 
+     align="right" 
+     width="220" 
+     style="border-radius: 24px; margin-left: 25px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 
 ### 🎮 Nebakionolm (Roblox İçerik Üreticisi & 3D Animatör)
 YouTube macerama **Brawl Stars** videolarıyla başladım, şimdi ise enerjimi tamamen **Roblox** videolarına yönelttim. Kanalımda, Roblox'un en eğlenceli ve ilgi çekici oyunlarını oynayarak sizlere hem eğlence hem de bilgi sunmaya çalışıyorum. 
@@ -23,9 +24,14 @@ Aynı zamanda profesyonel bir **3D Animatörüm**! Videolarımda ve projelerimde
 ### 🎬 Dark (En İyi Arkadaş & Roblox 2D Video Üreticisi)
 Ekibin diğer yarısı ve en yakın arkadaşım **Dark**! O da tam bir Roblox tutkunu ve platform için harika **2D Roblox videoları** üretmeyi çok seviyor. Kendine has tarzı ve eğlenceli kurgularıyla Roblox evrenine bambaşka bir bakış açısı kazandırıyor.
 
-Amacımız; videolarımızı izlerken keyif almanız, yeni şeyler öğrenmeniz ve her yeni video geldiğinde heyecanla beklemeniz. Eğer bu hissi sizlere geçirebiliyorsam, işte o zaman amacımın tam anlamıyla gerçekleştiğini biliyorum.
+Amacımız; videolarımı izlerken keyif almanız, yeni şeyler öğrenmeniz ve her yeni video geldiğinde heyecanla beklemeniz. Eğer bu hissi sizlere geçirebiliyorsam, işte o zaman amacımın tam anlamıyla gerçekleştiğini biliyorum.
 
 🚀 **Destekleriniz için çok teşekkür ederiz!** Kanallarımıza abone olmayı ve bildirimleri açmayı unutmayın, çünkü bu topluluk hep birlikte büyüyor! 
+
+🎮 **İyi eğlenceler!**
+
+<br clear="left" />
+<br clear="right" />
 
 ---
 
@@ -49,7 +55,7 @@ Amacımız; videolarımızı izlerken keyif almanız, yeni şeyler öğrenmeniz 
   <a href="https://youtube.com">
     <img src="https://shields.io" alt="Dark YouTube">
   </a>
-  <a href="https://www.roblox.com/tr/users/2758994891/profile">
+  <a href="https://roblox.com">
     <img src="https://shields.io" alt="Dark Roblox">
   </a>
 </p>
@@ -59,7 +65,7 @@ Amacımız; videolarımızı izlerken keyif almanız, yeni şeyler öğrenmeniz 
 Üyeler: Nebakionolm & Dark
 Ana Odak: Roblox Oyun Dünyası
 Uzmanlıklar: Blender 3D Animasyon (Nebakionolm) & 2D Video Üretimi (Dark)
-Mizah Seviyesi: %100 Maksimum Enerji ve Eğlence
+Mizah Seviyesi: %100 Aksimum Enerji ve Eğlence
 ```
 
 ---
@@ -86,7 +92,7 @@ Ekibimizin geçmişten geleceğe tüm planlarını ve ulaştığı kilometre ta�
 
 ---
 
-## 🛠️ Kullandığımız Programlar & Ekipmanlar
+## 🛠️ Kullandığım Programlar & Ekipmanlar
 
 | Bileşen / Program | Kullanım Amacı | Kullanan Kişi | Önem Derecesi |
 | :--- | :--- | :--- | :--- |
@@ -105,9 +111,9 @@ Aşağıdaki bağlantı tablosunu kullanarak resmi hesaplarımıza tek tıkla er
 | 🌐 Platform | 🚀 Doğrudan Bağlantı Köprüsü | 📌 Detaylı Açıklama |
 | :--- | :--- | :--- |
 | **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://youtube.com) | En yeni eğlenceli ve 3D animasyonlu videoları kaçırma! |
-| **📺 YouTube (Dark)** | [Dark'a Abone Ol](https://www.youtube.com/@DrexelxMC) | Dark'ın hazırladığı harika 2D Roblox içeriklerini takip et! |
+| **📺 YouTube (Dark)** | [Dark'a Abone Ol](https://youtube.com) | Dark'ın hazırladığı harika 2D Roblox içeriklerini takip et! |
 | **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://roblox.com) | Profilimi incele, oyun içi kombinlerime bak ve beni ekle! |
-| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://www.roblox.com/tr/users/2758994891/profile) | Dark'ın profilini incele ve Roblox üzerinden takip et! |
+| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://roblox.com) | Dark'ın profilini incele ve Roblox üzerinden takip et! |
 | **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://roblox.com) | Gruptaki duvar yazışmalarına katıl, topluluğa dahil ol! |
 | **📸 Instagram** | [Instagram'dan Takip Et](https://instagram.com) | Günlük hayatımdan kareler, hikayeler ve özel duyurular. |
 | **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.gg) | Sesli odalarda bizimle ve diğer abonelerle oyun oynama fırsatı! |
@@ -139,7 +145,7 @@ Ben (Nebakionolm) Blender kullanarak derinliği olan 3D karakter modelleri ve si
 
 ## 👁️‍🗨️ Gizli Dosyalar & Sürpriz Yumurtalar
 
- Sadece bu sayfanın en altına kadar inmeyi başaran gerçek takipçiler için gizli odalar:
+Sadece bu sayfanın en altına kadar inmeyi başaran gerçek takipçiler için gizli odalar:
 
 <details>
 <summary>🔑 GİZLİ GÖREV: Yorum Şifresi</summary>
@@ -150,7 +156,7 @@ Eğer burayı okuyorsan, YouTube'daki en son videonun altına gidip yorum olarak
 <details>
 <summary>🪐 GÖRSELLERİN GİZEMİ: Fotoğraflar Nereden Geldi?</summary>
 <br>
-Yukarıda yan yana duran yumuşatılmış köşeli karakterlerimiz, bizzat bizim kanal maskotlarımızdır. Sayfaya giren herkesi karşılamak için yan yana yerleştirildiler.
+Yandaki kenarları yumuşatılmış karakterlerimiz bizzat bizim kanal maskotlarımızdır. Metinlerin sağında ve solunda deponun koruyucuları olarak duruyorlar!
 </details>
 
 ---
