@@ -104,7 +104,7 @@ Ekibimizin geçmişten geleceğe tüm planlarını, hedeflerini ve ulaştığı 
 - [ ] 10.000 Abone hedeflerine ulaşılması ve kanallara özel kutlama içerikleri
 - [ ] Takipçilerimizle birlikte oynayacağımız, tamamen kendi sunucularımızda devasa canlı yayın etkinlikleri
 - [ ] Nebakionolm & Dark ortaklığıyla ödüllü ve çekilişli Roblox turnuvaları düzenlenmesi
-- [ ] Tamamen kendi ürettiğimiz 3D ve 2D animasyon karakterleriyle özel mini dizi/kısa film serileri
+- [x] Tamamen kendi ürettiğimiz 3D ve 2D animasyon karakterleriyle özel mini dizi/kısa film serileri
 
 ---
 
