@@ -130,14 +130,14 @@ Aşağıdaki bağlantı tablosunu kullanarak resmi hesaplarımıza tek tıkla er
 
 | 🌐 Platform | 🚀 Doğrudan Bağlantı Köprüsü | 📌 Detaylı Açıklama |
 | :--- | :--- | :--- |
-| **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://youtube.com) | En yeni eğlenceli, komik ve 3D animasyonlu videoları kaçırmamak için tıkla! |
-| **📺 YouTube (Dark)** | [Dark'ın Kanalına Abone Ol](https://youtube.com) | Dark'ın hazırladığı harika 2D animasyonları ve profesyonel editleri takip et! |
-| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://roblox.com) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş olarak ekle! |
-| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://roblox.com) | Dark'ın profilini incele ve Roblox platformu üzerinden takibe al! |
-| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://roblox.com) | Gruptaki duvar yazışmalarına katıl, özel etkinlikleri kaçırma! |
+| **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://www.youtube.com/@Nebakionolm_shorts) | Komik ve 3D animasyonlu videoları kaçırmamak için tıkla! |
+| **📺 YouTube (Dark)** | [Dark'ın Kanalına Abone Ol](https://www.youtube.com/@DrexelxMC) | Dark'ın hazırladığı harika 2D animasyonları ve profesyonel editleri takip et! |
+| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://www.roblox.com/tr/users/5132186923/profile) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş olarak ekle! |
+| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://www.roblox.com/tr/users/2758994891/profile) | Dark'ın profilini incele ve Roblox platformu üzerinden takibe al! |
+| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://www.roblox.com/tr/communities/144777197/Nebakionolm-Toplulu-u) | Gruptaki duvar yazışmalarına katıl, özel etkinlikleri kaçırma! |
 | **📸 Instagram** | [Instagram'dan Takip Et](https://instagram.com?igsh=MXExYWc0dDFhMzRieQ==) | Günlük hayatımdan özel kareler, kamera arkası görüntüleri ve duyurular. |
-| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.gg) | Sesli odalarda bizimle sohbet etme ve videolara çıkma fırsatı yakala! |
-| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://guilded.gg) | Roblox oyuncuları için özel olarak geliştirilmiş alternatif topluluk alanımız. |
+| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.com/invite/pRx3GPCYhN) | Sesli odalarda bizimle sohbet etme ve videolara çıkma fırsatı yakala! |
+| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://www.guilded.gg/r/cmE9MdkZzE?i=myyY0lJm) | Roblox oyuncuları için özel olarak geliştirilmiş alternatif topluluk alanımız. |
 
 ---
 
@@ -170,71 +170,10 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
 ### ⬇️ Dosyaları İndir
 
 <p align="center">
-  <a href="https://github.com/Nebakionolm/Nebakionolm/tree/main/Modeller" class="ripple-btn primary">
-    <span>📦 Modeller Klasörü (.rbxm)</span>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg" class="ripple-btn secondary">
-    <span>💬 Animasyonunu Paylaş (Discord)</span>
+  <a href="fan-animasyon.html">
+    <img src="https://img.shields.io/badge/🎨%20Fan%20Animasyon%20Köşesi-Karakterleri%20İndir%20%26%20Araçlar-blue?style=for-the-badge" alt="Fan Animasyon Köşesi">
   </a>
 </p>
-
-<style>
-  .ripple-btn {
-    position: relative;
-    overflow: hidden;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 13px 26px;
-    border-radius: 10px;
-    font-family: sans-serif;
-    font-size: 0.95rem;
-    font-weight: 600;
-    cursor: pointer;
-    text-decoration: none;
-    transition: transform 0.15s, box-shadow 0.15s;
-  }
-  .ripple-btn:hover  { transform: translateY(-2px); }
-  .ripple-btn:active { transform: translateY(0); }
-  .ripple-btn.primary {
-    background: linear-gradient(135deg, #4f8fff, #9b5de5);
-    color: #fff;
-    box-shadow: 0 4px 20px rgba(79,143,255,0.4);
-  }
-  .ripple-btn.secondary {
-    background: #1a1a2e;
-    color: #e8e8f0;
-    border: 1.5px solid #2a2a45;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
-  }
-  .ripple {
-    position: absolute;
-    border-radius: 50%;
-    transform: scale(0);
-    animation: ripple-anim 0.6s linear;
-    pointer-events: none;
-  }
-  .primary  .ripple { background: rgba(255,255,255,0.35); }
-  .secondary .ripple { background: rgba(79,143,255,0.4); }
-  @keyframes ripple-anim {
-    to { transform: scale(4); opacity: 0; }
-  }
-</style>
-
-<script>
-  document.querySelectorAll('.ripple-btn').forEach(btn => {
-    btn.addEventListener('click', function(e) {
-      const rect = this.getBoundingClientRect();
-      const size = Math.max(rect.width, rect.height) * 2;
-      const ripple = document.createElement('span');
-      ripple.classList.add('ripple');
-      ripple.style.cssText = `width:${size}px;height:${size}px;left:${e.clientX - rect.left - size/2}px;top:${e.clientY - rect.top - size/2}px;`;
-      this.appendChild(ripple);
-      ripple.addEventListener('animationend', () => ripple.remove());
-    });
-  });
-</script>
 
 ---
 
