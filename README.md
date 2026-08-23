@@ -129,7 +129,7 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
 ### ⬇️ Dosyaları İndir
 
 <p align="center">
-  <a href="Modeller.zip" download>
+  <a href="https://github.com/Nebakionolm/Nebakionolm/raw/refs/heads/main/Modeller.zip">
     <img src="https://img.shields.io/badge/⬇️%20Modeller%20Klasörünü%20İndir-ZIP-blue?style=for-the-badge" alt="Modeller Klasörünü İndir">
   </a>
 </p>
