@@ -59,7 +59,7 @@ Aşağıdaki rozetler üzerinden platformlardaki aktif varlığımızı ve toplu
     <img src="https://shields.io" alt="Discord">
   </a>
   <a href="https://instagram.com">
-    <img src="https://shields.io" alt="Instagram">
+    <img src="https://instagram.com?igsh=MXExYWc0dDFhMzRieQ==" alt="Instagram">
   </a>
 </p>
 
@@ -80,71 +80,3 @@ Ana Platform: Roblox & YouTube Kısa/Uzun İçerikleri
 Nebakionolm Uzmanlık: Blender 3D Animasyon, Modelleme, Rigging, Sinematik Render
 Dark Uzmanlık: 2D Animasyon, Profesyonel Video Kurgu, Efekt Yönetimi, İleri Seviye Edit
 Ortak Amaç: Kaliteli, Eğlenceli, Komik ve Özgün Roblox İçerikleri Üretmek
-```
-
----
-
-## 🗺️ Detaylı Gelişim ve Ortak Yol Haritası (Roadmap)
-
-Ekibimizin geçmişten geleceğe tüm planlarını, hedeflerini ve ulaştığı büyük kilometre taşlarını buradan adım adım takip edebilirsin:
-
-#### 📌 Aşama 1: Kuruluş, Markalaşma ve Temeller (Tamamlandı)
-- [x] YouTube kanallarının açılması ve kurumsal görsel kimliklerin oluşturulması
-- [x] İlk Brawl Stars ve Roblox deneme videolarının kurgulanıp yüklenmesi
-- [x] Profil resimleri, kanal banner tasarımları ve grafik şablonlarının optimize edilmesi
-
-#### 📌 Aşama 2: Animasyon, Uzmanlık ve Ortaklık Çağı (Devam Ediyor)
-- [x] Roblox evrenine tam zamanlı ve profesyonel geçiş yapılması
-- [x] Blender ile özel 3D animasyon (Nebakionolm) ve 2D animasyon (Dark) süreçlerinin entegre edilmesi
-- [x] İleri düzey video editleme teknikleriyle (Dark) video kalitesinin maksimuma çıkarılması
-- [x] Discord topluluk sunucusunun ve Roblox Resmi Grubu'nun kurulması
-- [ ] Düzenli haftalık ortak video yükleme ve Shorts takvimine geçiş yapılması
-
-#### 📌 Aşama 3: Zirve Topluluk ve Büyük Projeler (Gelecek Planı)
-- [ ] 10.000 Abone hedeflerine ulaşılması ve kanallara özel kutlama içerikleri
-- [ ] Takipçilerimizle birlikte oynayacağımız, tamamen kendi sunucularımızda devasa canlı yayın etkinlikleri
-- [ ] Nebakionolm & Dark ortaklığıyla ödüllü ve çekilişli Roblox turnuvaları düzenlenmesi
-- [x] Tamamen kendi ürettiğimiz 3D ve 2D animasyon karakterleriyle özel mini dizi/kısa film serileri
-
----
-
-## 🛠️ Kullandığımız Profesyonel Programlar & Sistem Altyapısı
-
-Animasyon render süreçlerinde, ileri seviye video editlemelerinde ve Roblox oyunlarında en yüksek performansı yakalamak için kullandığımız profesyonel yazılım araçları:
-
-| Yazılım / Program | Kullanım Amacı | Uzman Kullanıcı | Önem Derecesi |
-| :--- | :--- | :--- | :--- |
-| **Blender 3D** | Karakter Modelleme, İskelet Tasarımı (Rigging), Sinematik Render | Nebakionolm | 🔴 Kritik Seviye |
-| **2D Animasyon Araçları** | 2D Görsel Tasarımlar, Katmanlı Animasyonlar ve Çizimler | Dark | 🔴 Kritik Seviye |
-| **Profesyonel Editör Seti** | İleri Seviye Video Kurgu, Komik Efektler, Renk Ayarı (Color Grade) | Dark | 🔴 Kritik Seviye |
-| **Roblox İstemcisi** | Ana İçerik Üretimi, Harita İncelemeleri ve Oynanış Sahneleri | Her İkisi | 🔴 Kritik Seviye |
-| **OBS Studio** | Akıcı 60 FPS Bitrate Kayıpsız Video ve Oyun Kaydı | Her İkisi | 🟠 Yüksek Seviye |
-| **CapCut & Premiere Pro** | Hızlı Kurgu, Ses Yönetimi, Altyazı ve Dinamik Kesimler | Her İkisi | 🟠 Yüksek Seviye |
-| **Discord & Krisp** | Arka Plan Ses Temizleme, Ekip İçi İletişim ve Topluluk Yönetimi | Her İkisi | 🟡 Orta Seviye |
-
----
-
-## 🔗 Tüm Sosyal Medya ve Topluluk Bağlantıları
-
-Aşağıdaki bağlantı tablosunu kullanarak resmi hesaplarımıza tek tıkla erişebilirsin. İkimizin de buradaki bağlantıları dışında hiçbir sahte hesaba güvenmeyin!
-
-| 🌐 Platform | 🚀 Doğrudan Bağlantı Köprüsü | 📌 Detaylı Açıklama |
-| :--- | :--- | :--- |
-| **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://youtube.com) | En yeni eğlenceli, komik ve 3D animasyonlu videoları kaçırmamak için tıkla! |
-| **📺 YouTube (Dark)** | [Dark'ın Kanalına Abone Ol](https://youtube.com) | Dark'ın hazırladığı harika 2D animasyonları ve profesyonel editleri takip et! |
-| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://roblox.com) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş olarak ekle! |
-| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://roblox.com) | Dark'ın profilini incele ve Roblox platformu üzerinden takibe al! |
-| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://roblox.com) | Gruptaki duvar yazışmalarına katıl, özel etkinlikleri kaçırma! |
-| **📸 Instagram** | [Instagram'dan Takip Et](https://instagram.com?igsh=MXExYWc0dDFhMzRieQ==) | Günlük hayatımdan özel kareler, kamera arkası görüntüleri ve duyurular. |
-| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.gg) | Sesli odalarda bizimle sohbet etme ve videolara çıkma fırsatı yakala! |
-| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://guilded.gg) | Roblox oyuncuları için özel olarak geliştirilmiş alternatif topluluk alanımız. |
-
----
-
-## ❓ Sıkça Sorulan Sorular (S.S.S.)
-
-Aşağıdaki panelleri genişleterek aklınıza takılan soruların profesyonel yanıtlarına ulaşabilirsiniz:
-
-<details>
-<summary>💬 Soru 1: Videoların hazırlık süreci nasıl işliyor?</summary>
-<br>
