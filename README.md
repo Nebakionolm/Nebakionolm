@@ -130,14 +130,14 @@ Aşağıdaki bağlantı tablosunu kullanarak resmi hesaplarımıza tek tıkla er
 
 | 🌐 Platform | 🚀 Doğrudan Bağlantı Köprüsü | 📌 Detaylı Açıklama |
 | :--- | :--- | :--- |
-| **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://www.youtube.com/@Nebakionolm_shorts) | Komik ve 3D animasyonlu videoları kaçırmamak için tıkla! |
-| **📺 YouTube (Dark)** | [Dark'ın Kanalına Abone Ol](https://www.youtube.com/@DrexelxMC) | Dark'ın hazırladığı harika 2D animasyonları ve profesyonel editleri takip et! |
-| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://www.roblox.com/tr/users/5132186923/profile) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş olarak ekle! |
-| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://www.roblox.com/tr/users/2758994891/profile) | Dark'ın profilini incele ve Roblox platformu üzerinden takibe al! |
-| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://www.roblox.com/tr/communities/144777197/Nebakionolm-Toplulu-u) | Gruptaki duvar yazışmalarına katıl, özel etkinlikleri kaçırma! |
+| **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://youtube.com) | En yeni eğlenceli, komik ve 3D animasyonlu videoları kaçırmamak için tıkla! |
+| **📺 YouTube (Dark)** | [Dark'ın Kanalına Abone Ol](https://youtube.com) | Dark'ın hazırladığı harika 2D animasyonları ve profesyonel editleri takip et! |
+| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://roblox.com) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş olarak ekle! |
+| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://roblox.com) | Dark'ın profilini incele ve Roblox platformu üzerinden takibe al! |
+| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://roblox.com) | Gruptaki duvar yazışmalarına katıl, özel etkinlikleri kaçırma! |
 | **📸 Instagram** | [Instagram'dan Takip Et](https://instagram.com?igsh=MXExYWc0dDFhMzRieQ==) | Günlük hayatımdan özel kareler, kamera arkası görüntüleri ve duyurular. |
-| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.com/invite/pRx3GPCYhN) | Sesli odalarda bizimle sohbet etme ve videolara çıkma fırsatı yakala! |
-| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://www.guilded.gg/r/cmE9MdkZzE?i=myyY0lJm) | Roblox oyuncuları için özel olarak geliştirilmiş alternatif topluluk alanımız. |
+| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.gg) | Sesli odalarda bizimle sohbet etme ve videolara çıkma fırsatı yakala! |
+| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://guilded.gg) | Roblox oyuncuları için özel olarak geliştirilmiş alternatif topluluk alanımız. |
 
 ---
 
