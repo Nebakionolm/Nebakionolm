@@ -43,47 +43,6 @@ Kanalda yayınladığımız tüm Roblox videoları ikimizin de ortak emeğiyle v
 
 ---
 
-## 📊 Kanal İstatistikleri ve Dijital Metrikler
-
-Aşağıdaki rozetler üzerinden platformlardaki aktif varlığımızı ve topluluk durumumuzu anlık olarak görebilirsiniz:
-
-### 🛡️ Nebakionolm Resmi Bağlantıları
-<p align="left">
-  <a href="https://youtube.com">
-    <img src="https://shields.io" alt="YouTube Aboneleri">
-  </a>
-  <a href="https://roblox.com">
-    <img src="https://shields.io" alt="Roblox Profili">
-  </a>
-  <a href="https://discord.gg">
-    <img src="https://shields.io" alt="Discord">
-  </a>
-  <a href="https://instagram.com">
-    <img src="https://shields.io" alt="Instagram">
-  </a>
-</p>
-
-### ⚡ Dark Resmi Bağlantıları
-<p align="left">
-  <a href="https://youtube.com">
-    <img src="https://shields.io" alt="Dark YouTube">
-  </a>
-  <a href="https://roblox.com">
-    <img src="https://shields.io" alt="Dark Roblox">
-  </a>
-</p>
-
-```yaml
-[STÜDYO VE EKİP BİLGİLERİ]
-Stüdyo Adı: Nebakionolm & Dark Prodüksiyon
-Ana Platform: Roblox & YouTube Kısa/Uzun İçerikleri
-Nebakionolm Uzmanlık: Blender 3D Animasyon, Modelleme, Rigging, Sinematik Render
-Dark Uzmanlık: 2D Animasyon, Profesyonel Video Kurgu, Efekt Yönetimi, İleri Seviye Edit
-Ortak Amaç: Kaliteli, Eğlenceli, Komik ve Özgün Roblox İçerikleri Üretmek
-```
-
----
-
 ## 🗺️ Detaylı Gelişim ve Ortak Yol Haritası (Roadmap)
 
 Ekibimizin geçmişten geleceğe tüm planlarını, hedeflerini ve ulaştığı büyük kilometre taşlarını buradan adım adım takip edebilirsin:
@@ -130,14 +89,14 @@ Aşağıdaki bağlantı tablosunu kullanarak resmi hesaplarımıza tek tıkla er
 
 | 🌐 Platform | 🚀 Doğrudan Bağlantı Köprüsü | 📌 Detaylı Açıklama |
 | :--- | :--- | :--- |
-| **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://youtube.com) | En yeni eğlenceli, komik ve 3D animasyonlu videoları kaçırmamak için tıkla! |
-| **📺 YouTube (Dark)** | [Dark'ın Kanalına Abone Ol](https://youtube.com) | Dark'ın hazırladığı harika 2D animasyonları ve profesyonel editleri takip et! |
-| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://roblox.com) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş olarak ekle! |
-| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://roblox.com) | Dark'ın profilini incele ve Roblox platformu üzerinden takibe al! |
-| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://roblox.com) | Gruptaki duvar yazışmalarına katıl, özel etkinlikleri kaçırma! |
+| **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://www.youtube.com/@Nebakionolm_shorts) | Komik ve 3D animasyonlu videoları kaçırmamak için tıkla! |
+| **📺 YouTube (Dark)** | [Dark'ın Kanalına Abone Ol](https://www.youtube.com/@DrexelxMC) | Dark'ın hazırladığı harika 2D animasyonları ve profesyonel editleri takip et! |
+| **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://www.roblox.com/tr/users/5132186923/profile) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş olarak ekle! |
+| **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://www.roblox.com/tr/users/2758994891/profile) | Dark'ın profilini incele ve Roblox platformu üzerinden takibe al! |
+| **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://www.roblox.com/tr/communities/144777197/Nebakionolm-Toplulu-u) | Gruptaki duvar yazışmalarına katıl, özel etkinlikleri kaçırma! |
 | **📸 Instagram** | [Instagram'dan Takip Et](https://instagram.com?igsh=MXExYWc0dDFhMzRieQ==) | Günlük hayatımdan özel kareler, kamera arkası görüntüleri ve duyurular. |
-| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.gg) | Sesli odalarda bizimle sohbet etme ve videolara çıkma fırsatı yakala! |
-| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://guilded.gg) | Roblox oyuncuları için özel olarak geliştirilmiş alternatif topluluk alanımız. |
+| **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.com/invite/pRx3GPCYhN) | Sesli odalarda bizimle sohbet etme ve videolara çıkma fırsatı yakala! |
+| **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://www.guilded.gg/r/cmE9MdkZzE?i=myyY0lJm) | Roblox oyuncuları için özel olarak geliştirilmiş alternatif topluluk alanımız. |
 
 ---
 
@@ -170,8 +129,8 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
 ### ⬇️ Dosyaları İndir
 
 <p align="center">
-  <a href="fan-animasyon.html">
-    <img src="https://img.shields.io/badge/🎨%20Fan%20Animasyon%20Köşesi-Karakterleri%20İndir%20%26%20Araçlar-blue?style=for-the-badge" alt="Fan Animasyon Köşesi">
+  <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nebakionolm/Nebakionolm/tree/main/Modeller">
+    <img src="https://img.shields.io/badge/⬇️%20Karakterleri%20İndir-Modeller%20Klasörü%20(.rbxm)-blue?style=for-the-badge" alt="Karakterleri İndir">
   </a>
 </p>
 
