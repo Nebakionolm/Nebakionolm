@@ -175,7 +175,7 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
   </a>
 </p>
 
-> 💡 **Not:** Butona tıklayınca repodaki `Modeller` klasörüne gidersin. Oradaki `.rbxm` dosyalarını tek tek indirebilirsin. Linkteki `KULLANICI_ADIN` ve `REPO_ADIN` kısımlarını kendi GitHub bilgilerinle değiştir!
+> 💡 **Not:** Butona tıklayınca repodaki `Modeller` klasörün indirilir. Roblox Studio'ya aktarıp fan animasyonları yapabilirsin!
 
 ---
 
