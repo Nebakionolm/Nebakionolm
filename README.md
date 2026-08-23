@@ -170,16 +170,12 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
 ### ⬇️ Dosyaları İndir
 
 <p align="center">
-  <a href="https://github.com/KULLANICI_ADIN/REPO_ADIN/raw/main/Modeller/karakter.blend">
-    <img src="https://img.shields.io/badge/⬇️%20.blend%20Dosyasını%20İndir-Blender%20Karakterleri-orange?style=for-the-badge&logo=blender" alt=".blend İndir">
-  </a>
-  &nbsp;
-  <a href="https://github.com/KULLANICI_ADIN/REPO_ADIN/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/⬇️%20Tüm%20Modeller%20Klasörü-ZIP%20İndir-blue?style=for-the-badge" alt="Modeller ZIP İndir">
+  <a href="https://github.com/KULLANICI_ADIN/REPO_ADIN/tree/main/Modeller">
+    <img src="https://img.shields.io/badge/⬇️%20Karakterleri%20İndir-Modeller%20Klasörü%20(.rbxm)-blue?style=for-the-badge" alt="Karakterleri İndir">
   </a>
 </p>
 
-> 💡 **Not:** `.blend` butonu doğrudan Blender dosyasını indirir. ZIP butonu ise repodaki `Modeller` klasörünün tamamını indirir. Linklerdeki `KULLANICI_ADIN` ve `REPO_ADIN` kısımlarını kendi GitHub bilgilerinle değiştir!
+> 💡 **Not:** Butona tıklayınca repodaki `Modeller` klasörüne gidersin. Oradaki `.rbxm` dosyalarını tek tek indirebilirsin. Linkteki `KULLANICI_ADIN` ve `REPO_ADIN` kısımlarını kendi GitHub bilgilerinle değiştir!
 
 ---
 
@@ -189,12 +185,11 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
 <summary>🎬 Tıkla ve Öğren: Hangi Araçlarla Kullanabilirsin?</summary>
 <br>
 
-Repodaki karakter modellerini aşağıdaki araçlarla kullanabilirsin:
+Repodaki `.rbxm` karakter dosyalarını aşağıdaki araçlarla kullanabilirsin:
 
 | | Araç | Açıklama |
 | :---: | :--- | :--- |
-| <img src="Moon.png" alt="Moon Animator" width="60" /> | **Moon Animator** | Roblox Studio için geliştirilmiş profesyonel animasyon eklentisidir. `.rbxm` formatındaki karakterleri Roblox Studio'ya aktararak Moon Animator ile sahne sahne animasyon yapabilirsin. Keyframe sistemi, kamera animasyonları ve efekt desteğiyle sinematik kalitede içerikler üretebilirsin. |
-| 🟠 | **Blender 3D** | `.blend` dosyasını doğrudan Blender'da açarak rigging (iskelet), render ve sinematik sahneler oluşturabilirsin. Nebakionolm'un da aktif kullandığı araç budur. |
+| <img src="Moon.png" alt="Moon Animator" width="60" /> | **Moon Animator** | Roblox Studio için geliştirilmiş profesyonel animasyon eklentisidir. `.rbxm` dosyalarını Roblox Studio'ya aktararak Moon Animator ile sahne sahne animasyon yapabilirsin. Keyframe sistemi, kamera animasyonları ve efekt desteğiyle sinematik kalitede içerikler üretebilirsin. |
 | 🎨 | **2D Araçlar** | Karakter görsellerini referans alarak kendi tarzında 2D animasyon yapabilirsin. Dark'ın kullandığı 2D araçlarla içerik üretmek tamamen serbest! |
 
 > ⚠️ **Kullanım Kuralları:** Fan animasyonlarında karakterlerimizi kullanabilirsin, ancak lütfen içeriğin altına **kaynak belirt** (Nebakionolm & Dark) ve **ticari amaçla kullanma**. Yaptığın animasyonu Discord sunucumuzda bizimle paylaşmayı unutma! 🎉
