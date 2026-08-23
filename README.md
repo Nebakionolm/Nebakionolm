@@ -170,12 +170,12 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
 ### ⬇️ Dosyaları İndir
 
 <p align="center">
-  <a href="https://github.com/KULLANICI_ADIN/REPO_ADIN/tree/main/Modeller">
+  <a href="https://github.com/Nebakionolm/Nebakionolm/tree/main/Modeller">
     <img src="https://img.shields.io/badge/⬇️%20Karakterleri%20İndir-Modeller%20Klasörü%20(.rbxm)-blue?style=for-the-badge" alt="Karakterleri İndir">
   </a>
 </p>
 
-> 💡 **Not:** Butona tıklayınca repodaki `Modeller` klasörün indirilir. Roblox Studio'ya aktarıp fan animasyonları yapabilirsin!
+> 💡 **Not:** Butona tıklayınca repodaki `Modeller` klasörüne gidersin. Oradaki `.rbxm` dosyalarını tek tek indirebilirsin. Linkteki `KULLANICI_ADIN` ve `REPO_ADIN` kısımlarını kendi GitHub bilgilerinle değiştir!
 
 ---
 
