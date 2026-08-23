@@ -87,7 +87,7 @@ Animasyon render süreçlerinde, ileri seviye video editlemelerinde ve Roblox oy
 
 Aşağıdaki bağlantı tablosunu kullanarak resmi hesaplarımıza tek tıkla erişebilirsin. İkimizin de buradaki bağlantıları dışında hiçbir sahte hesaba güvenmeyin!
 
-| 🌐 Platform | 🚀 Doğrudan Bağlantı Köprüsü | 📌 Detaylı Açıklama |
+| 🌐 Platform | 🚀 Doğrudan Bağlantı Köprü | 📌 Detaylı Açıklama |
 | :--- | :--- | :--- |
 | **📺 YouTube (Nebakionolm)** | [Abone Ol & Bildirimleri Aç](https://www.youtube.com/@Nebakionolm_shorts) | Komik ve 3D animasyonlu videoları kaçırmamak için tıkla! |
 | **📺 YouTube (Dark)** | [Dark'ın Kanalına Abone Ol](https://www.youtube.com/@DrexelxMC) | Dark'ın hazırladığı harika 2D animasyonları ve profesyonel editleri takip et! |
@@ -122,15 +122,15 @@ Her video, fikir aşamasından yayına girene kadar titizlikle planlanır. Nebak
   <b>Topluluğumuzun Yaratıcı Animasyon Alanına Hoş Geldiniz!</b>
 </p>
 
-Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda bulunan **Modeller klasörüne** erişip içerideki dosyaları kullanabilirsin.
+Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda bulunan **Modeller klasörünün zip halini** indirip içindeki dosyaları dilediğin gibi kullanabilirsin.
 
 ---
 
-### ⬇️ Dosyalara Eriş
+### ⬇️ Dosyaları İndir
 
 <p align="center">
-  <a href="Modeller/">
-    <img src="https://img.shields.io/badge/📂%20Modeller%20Klasörüne%20Git-Modeller-blue?style=for-the-badge" alt="Modeller Klasörüne Git">
+  <a href="Modeller.zip" download>
+    <img src="https://img.shields.io/badge/⬇️%20Modeller%20Klasörünü%20İndir-ZIP-blue?style=for-the-badge" alt="Modeller Klasörünü İndir">
   </a>
 </p>
 
@@ -142,11 +142,11 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
 <summary>🎬 Tıkla ve Öğren: Hangi Araçlarla Kullanabilirsin?</summary>
 <br>
 
-Repodaki `Modeller` klasöründe yer alan karakter dosyalarını aşağıdaki araçlarla kullanabilirsin:
+Zip dosyasından çıkaracağın karakter modellerini aşağıdaki araçlarla kullanabilirsin:
 
 | | Araç | Açıklama |
 | :---: | :--- | :--- |
-| <img src="Moon.png" alt="Moon Animator" width="60" /> | **Moon Animator** | Roblox Studio için geliştirilmiş profesyonel animasyon eklentisidir. Modelleri Roblox Studio'ya aktararak Moon Animator ile sahne sahne animasyon yapabilirsin. Keyframe sistemi, kamera animasyonları ve efekt desteğiyle sinematik kalitede içerikler üretebilirsin. |
+| <img src="Moon.png" alt="Moon Animator" width="60" /> | **Moon Animator** | Roblox Studio için geliştirilmiş profesyonel animasyon eklentisidir. Dosyaları Roblox Studio'ya aktararak Moon Animator ile sahne sahne animasyon yapabilirsin. Keyframe sistemi, kamera animasyonları ve efekt desteğiyle sinematik kalitede içerikler üretebilirsin. |
 | 🎨 | **2D Araçlar** | Karakter görsellerini referans alarak kendi tarzında 2D animasyon yapabilirsin. Dark'ın kullandığı 2D araçlarla içerik üretmek tamamen serbest! |
 
 > ⚠️ **Kullanım Kuralları:** Fan animasyonlarında karakterlerimizi kullanabilirsin, ancak lütfen içeriğin altına **kaynak belirt** (Nebakionolm & Dark) ve **ticari amaçla kullanma**. Yaptığın animasyonu Discord sunucumuzda bizimle paylaşmayı unutma! 🎉
