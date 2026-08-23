@@ -94,7 +94,7 @@ Aşağıdaki bağlantı tablosunu kullanarak resmi hesaplarımıza tek tıkla er
 | **🎮 Roblox Profilim** | [Roblox Üzerinden Takip Et](https://www.roblox.com/tr/users/5132186923/profile) | Profilimi incele, oyun içi kombinlerime bak ve beni arkadaş olarak ekle! |
 | **🎮 Dark Roblox Profili** | [Dark'ı Roblox'ta Takip Et](https://www.roblox.com/tr/users/2758994891/profile) | Dark'ın profilini incele ve Roblox platformu üzerinden takibe al! |
 | **👥 Roblox Grubum** | [Nebakionolm Topluluğu'na Katıl](https://www.roblox.com/tr/communities/144777197/Nebakionolm-Toplulu-u) | Gruptaki duvar yazışmalarına katıl, özel etkinlikleri kaçırma! |
-| **📸 Instagram** | [Instagram'dan Takip Et](https://instagram.com?igsh=MXExYWc0dDFhMzRieQ==) | Günlük hayatımdan özel kareler, kamera arkası görüntüleri ve duyurular. |
+| **📸 Instagram** | [Instagram'dan Takip Et](https://www.instagram.com/ytnebakionolm/) | Günlük hayatımdan özel kareler, kamera arkası görüntüleri ve duyurular. |
 | **💬 Discord Sunucum** | [Discord Sunucumuza Katıl](https://discord.com/invite/pRx3GPCYhN) | Sesli odalarda bizimle sohbet etme ve videolara çıkma fırsatı yakala! |
 | **🛡️ Guilded Sunucum** | [Guilded Sunucumuza Katıl](https://www.guilded.gg/r/cmE9MdkZzE?i=myyY0lJm) | Roblox oyuncuları için özel olarak geliştirilmiş alternatif topluluk alanımız. |
 
@@ -122,15 +122,15 @@ Her video, fikir aşamasından yayına girene kadar titizlikle planlanır. Nebak
   <b>Topluluğumuzun Yaratıcı Animasyon Alanına Hoş Geldiniz!</b>
 </p>
 
-Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda bulunan **hazır karakter modellerini** indirip istediğin animasyon aracında kullanabilirsin.
+Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda bulunan **Modeller klasörüne** erişip içerideki dosyaları kullanabilirsin.
 
 ---
 
-### ⬇️ Dosyaları İndir
+### ⬇️ Dosyalara Eriş
 
 <p align="center">
-  <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Nebakionolm/Nebakionolm/tree/main/Modeller">
-    <img src="https://img.shields.io/badge/⬇️%20Karakterleri%20İndir-Modeller%20Klasörü%20(.rbxm)-blue?style=for-the-badge" alt="Karakterleri İndir">
+  <a href="Modeller/">
+    <img src="https://img.shields.io/badge/📂%20Modeller%20Klasörüne%20Git-Modeller-blue?style=for-the-badge" alt="Modeller Klasörüne Git">
   </a>
 </p>
 
@@ -142,11 +142,11 @@ Karakterlerimizi kullanarak kendi fan animasyonunu yapmak ister misin? Repomuzda
 <summary>🎬 Tıkla ve Öğren: Hangi Araçlarla Kullanabilirsin?</summary>
 <br>
 
-Repodaki `.rbxm` karakter dosyalarını aşağıdaki araçlarla kullanabilirsin:
+Repodaki `Modeller` klasöründe yer alan karakter dosyalarını aşağıdaki araçlarla kullanabilirsin:
 
 | | Araç | Açıklama |
 | :---: | :--- | :--- |
-| <img src="Moon.png" alt="Moon Animator" width="60" /> | **Moon Animator** | Roblox Studio için geliştirilmiş profesyonel animasyon eklentisidir. `.rbxm` dosyalarını Roblox Studio'ya aktararak Moon Animator ile sahne sahne animasyon yapabilirsin. Keyframe sistemi, kamera animasyonları ve efekt desteğiyle sinematik kalitede içerikler üretebilirsin. |
+| <img src="Moon.png" alt="Moon Animator" width="60" /> | **Moon Animator** | Roblox Studio için geliştirilmiş profesyonel animasyon eklentisidir. Modelleri Roblox Studio'ya aktararak Moon Animator ile sahne sahne animasyon yapabilirsin. Keyframe sistemi, kamera animasyonları ve efekt desteğiyle sinematik kalitede içerikler üretebilirsin. |
 | 🎨 | **2D Araçlar** | Karakter görsellerini referans alarak kendi tarzında 2D animasyon yapabilirsin. Dark'ın kullandığı 2D araçlarla içerik üretmek tamamen serbest! |
 
 > ⚠️ **Kullanım Kuralları:** Fan animasyonlarında karakterlerimizi kullanabilirsin, ancak lütfen içeriğin altına **kaynak belirt** (Nebakionolm & Dark) ve **ticari amaçla kullanma**. Yaptığın animasyonu Discord sunucumuzda bizimle paylaşmayı unutma! 🎉
